@@ -1,0 +1,11 @@
+[
+null,
+{"id":1,"expanded":false,"name":"牢房","order":1,"parentId":0,"scrollX":972,"scrollY":404.5},
+{"id":2,"expanded":false,"name":"start","order":2,"parentId":0,"scrollX":332,"scrollY":263.5},
+{"id":3,"expanded":false,"name":"食堂","order":3,"parentId":0,"scrollX":492,"scrollY":368.5},
+{"id":4,"expanded":false,"name":"通道","order":4,"parentId":0,"scrollX":332,"scrollY":255.5},
+{"id":5,"expanded":false,"name":"暗室","order":5,"parentId":0,"scrollX":388,"scrollY":255.5},
+{"id":6,"expanded":false,"name":"休息室","order":6,"parentId":0,"scrollX":324,"scrollY":263.5},
+{"id":7,"expanded":false,"name":"辦公室","order":7,"parentId":0,"scrollX":451,"scrollY":608.5},
+{"id":8,"expanded":false,"name":"樓梯間","order":8,"parentId":0,"scrollX":332,"scrollY":263.5}
+]
